@@ -50,10 +50,6 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-<<<<<<< HEAD
-Plugins/*/Binaries/*
-=======
->>>>>>> bfe65d6d14ac45b034f53b893c1c3657c1d3eb4a
 
 # Builds
 Build/*
@@ -74,10 +70,6 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-<<<<<<< HEAD
-Plugins/*/Intermediate/*
-=======
->>>>>>> bfe65d6d14ac45b034f53b893c1c3657c1d3eb4a
 
 # Cache files for the editor to use
 DerivedDataCache/*
