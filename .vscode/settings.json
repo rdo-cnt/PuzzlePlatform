@@ -1,8 +1,10 @@
 {
 	"typescript.tsc.autoDetect": "off",
 	"files.exclude": {
+		"G:/UnrealProject/PuzzlePlatform/.git": true,
 		"G:/UnrealProject/PuzzlePlatform/.vscode": true,
 		"G:/UnrealProject/PuzzlePlatform/Content": true,
-		"G:/UnrealProject/PuzzlePlatform/Intermediate": true
+		"G:/UnrealProject/PuzzlePlatform/Intermediate": true,
+		"G:/UnrealProject/PuzzlePlatform/Saved": true
 	}
 }

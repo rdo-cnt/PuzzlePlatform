@@ -1,0 +1,11 @@
+Server:
+
+"D:\EpicGames\UE_4.18\Engine\Binaries\Win64\UE4Editor.exe" 
+"G:\UnrealProject\PuzzlePlatform\PuzzlePlatform.uproject" 
+/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap?listen -server -log
+
+
+Client (local host 127.0.01, rest local or global IP):
+"D:\EpicGames\UE_4.18\Engine\Binaries\Win64\UE4Editor.exe" 
+"G:\UnrealProject\PuzzlePlatform\PuzzlePlatform.uproject" 
+127.0.0.1 -game -log
