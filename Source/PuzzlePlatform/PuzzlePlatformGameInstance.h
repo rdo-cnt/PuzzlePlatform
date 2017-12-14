@@ -19,6 +19,19 @@ public:
 	UPuzzlePlatformGameInstance(const FObjectInitializer & ObjectInitializer);
 	//Init or construct?
 	void Init();
-		
 	
+	UFUNCTION(Exec)
+		void Host();
+
+	UFUNCTION(Exec)
+		void Join(const FString& a);
+	
+	//Exec Compatible classes
+		//Playercontrollers(change size, other variables)
+		//Possesed pawns
+		//HUDs
+		//Cheat Managers
+		//Game modes
+		//Game instances
+
 };
